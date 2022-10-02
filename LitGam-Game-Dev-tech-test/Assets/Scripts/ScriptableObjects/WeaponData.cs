@@ -8,7 +8,8 @@ public class WeaponData : ScriptableObject
     public string WeaponDescription;
     public Rigidbody Projectile;
     public float SpeedProjectile;
-    public int BulletsMax;
-    public int Damage;
-    public int Cadence;
+    //public int BulletsMax;
+    //public int Damage;
+    public float Cadence;
+    public AudioClip AudioShot;
 }

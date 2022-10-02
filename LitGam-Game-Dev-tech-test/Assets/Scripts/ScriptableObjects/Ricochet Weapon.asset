@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 92f02525cdbd01b4ea4e0e41dda7e1b3, type: 3}
-  m_Name: Parabolic Weapon
+  m_Name: Ricochet Weapon
   m_EditorClassIdentifier: 
-  WeaponName: Parabolic Weapon
-  WeaponDescription: 'This weapon launches projectiles in a parabolic shape.
+  WeaponName: Ricochet Weapon
+  WeaponDescription: 'This weapon fires projectiles that bounce off surfaces.
 
 
     To
     shoot press Right Click or Left Ctrl.'
-  Projectile: {fileID: 7930035985481325474, guid: 54861a46e9bfc554e847dfaa053dc5d2, type: 3}
-  SpeedProjectile: 25
-  Cadence: 3
-  AudioShot: {fileID: 8300000, guid: 24ae13f8baec59643bdc92ab75bdee6b, type: 3}
+  Projectile: {fileID: 3467991809647486617, guid: 72f0c865bb9041c4d9ce59ef03537e75, type: 3}
+  SpeedProjectile: 50
+  Cadence: 5
+  AudioShot: {fileID: 8300000, guid: 2d99338a9004dc94f88d8cddbc06a911, type: 3}

@@ -15,7 +15,8 @@ MonoBehaviour:
   WeaponName: Gravity Projectile Weapon
   WeaponDescription: "This weapon launches projectiles that create their own area
     of \u200B\u200Bgravity by attracting objects and causing them to orbit around
-    the projectile."
-  BulletsMax: 10
-  Damage: 5
-  Cadence: 3
+    the projectile.\n\nTo shoot press Right Click or Left Ctrl."
+  Projectile: {fileID: 1032516176055231727, guid: 5c932f30ddacf6142b2d7d30e7f51a66, type: 3}
+  SpeedProjectile: 5
+  Cadence: 2
+  AudioShot: {fileID: 8300000, guid: 06acd230801be0f49a7cec9264919cbb, type: 3}
