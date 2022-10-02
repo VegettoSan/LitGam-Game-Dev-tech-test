@@ -8,11 +8,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - PlayerAnim
   - Water
   - UI
-  - 
-  - 
+  - Player
+  - Projectile
   - 
   - 
   - 
